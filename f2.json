@@ -1,19 +1,19 @@
 {
-    "version": "1.7.0",
+    "version": "1.7.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ayoisaiah/f2/releases/download/v1.7.0/f2_1.7.0_windows_i386.tar.gz",
+            "url": "https://github.com/ayoisaiah/f2/releases/download/v1.7.1/f2_1.7.1_windows_i386.tar.gz",
             "bin": [
                 "f2.exe"
             ],
-            "hash": "c9f7b4fd8b0e682c9bb1b09e1e3a084e9e6c94a2c70c45fc62ef2617e0f57384"
+            "hash": "2db1604a579c212f2d95a4b7397ee03c9d93aa51e3348585db30c01e0b5b1322"
         },
         "64bit": {
-            "url": "https://github.com/ayoisaiah/f2/releases/download/v1.7.0/f2_1.7.0_windows_amd64.tar.gz",
+            "url": "https://github.com/ayoisaiah/f2/releases/download/v1.7.1/f2_1.7.1_windows_amd64.tar.gz",
             "bin": [
                 "f2.exe"
             ],
-            "hash": "bd31e9b0809bf717f58c81d7d7b2ef2bd3efb064a1877daab530b4c69a66822e"
+            "hash": "f74e3444ef2d319cc991848de0fb65260416efdd4c064643e24e8bf3177ee4cc"
         }
     },
     "homepage": "https://github.com/ayoisaiah/f2",
