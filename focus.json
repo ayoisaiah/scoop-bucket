@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ayoisaiah/focus/releases/download/v1.0.0/focus_1.0.0_windows_amd64.tar.gz",
+            "url": "https://github.com/ayoisaiah/focus/releases/download/v1.0.0/focus_1.0.0_windows_amd64.zip",
             "bin": ["focus.exe"],
             "hash": "b616dcf92bb15aa7483f90e62d3db45ca3d4d322bf6204f639af98363ba770b8"
         }
@@ -11,4 +11,3 @@
     "license": "MIT",
     "description": "Focus is a command-line productivity timer based on the Pomodoro Technique"
 }
-
