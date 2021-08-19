@@ -1,10 +1,10 @@
 {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ayoisaiah/focus/releases/download/v1.0.1/focus_1.0.1_windows_amd64.tar.gz",
+            "url": "https://github.com/ayoisaiah/focus/releases/download/v1.1.0/focus_1.1.0_windows_amd64.tar.gz",
             "bin": ["focus.exe"],
-            "hash": "8befdf5d78de274d54a7aa85839dddf13b5e5584e277d4253d22db9abcf56b98"
+            "hash": "1a442d6c4ea496f80885f33e26de8755f15e36e572512acb2d101851651c100b"
         }
     },
     "homepage": "https://github.com/ayoisaiah/focus",
