@@ -6,14 +6,14 @@
             "bin": [
                 "f2.exe"
             ],
-            "hash": "91ff90004e060e743dd78657ef9b093a74f31361902a763f4db3aab2084ebdd3"
+            "hash": "fcd3af6d99a670427ef7c04a1b43809beded3f027adc09bcf19dd1d95efe0971"
         },
         "64bit": {
             "url": "https://github.com/ayoisaiah/f2/releases/download/v1.9.0/f2_1.9.0_windows_amd64.tar.gz",
             "bin": [
                 "f2.exe"
             ],
-            "hash": "792106096398181ac47f681b698dc2d01a10f1bcc1e8e456dd6da207503b4e83"
+            "hash": "c0b3610f08ac1360c4af9d9d38d88e7d0b7001c082a15afe1c292fa4120c4ef7"
         }
     },
     "homepage": "https://github.com/ayoisaiah/f2",
