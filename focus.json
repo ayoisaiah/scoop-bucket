@@ -1,13 +1,15 @@
 {
-    "version": "1.2.0",
+    "version": "1.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ayoisaiah/focus/releases/download/v1.2.0/focus_1.2.0_windows_amd64.tar.gz",
-            "bin": ["focus.exe"],
-            "hash": "c21bca43a009f810d30599d6498a0e678aad1b70648ce2e215534007dcf01fb5"
+            "url": "https://github.com/ayoisaiah/focus/releases/download/v1.4.0/focus_1.4.0_windows_amd64.zip",
+            "bin": [
+                "focus.exe"
+            ],
+            "hash": "fdbeb831f5e9f951162c07b8b752353dc5c84a4eb5b45c2fb425f00b1a741c7e"
         }
     },
-    "homepage": "https://github.com/ayoisaiah/focus",
+    "homepage": "https://focus.freshman.tech",
     "license": "MIT",
     "description": "Focus is a command-line productivity timer based on the Pomodoro Technique"
 }
