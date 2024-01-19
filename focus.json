@@ -1,19 +1,19 @@
 {
-    "version": "1.4.2",
+    "version": "1.4.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ayoisaiah/focus/releases/download/v1.4.2/focus_1.4.2_windows_amd64.zip",
+            "url": "https://github.com/ayoisaiah/focus/releases/download/v1.4.3/focus_1.4.3_windows_amd64.zip",
             "bin": [
                 "focus.exe"
             ],
-            "hash": "d934e855750255432254407fe82d80123e3a1d3b71f6d570e02e017a7a2c7bb3"
+            "hash": "530c8d5797a2ef51fae3d79bd6ebbc841ad217ff8d5bec269f174dd815fb99bd"
         },
         "arm64": {
-            "url": "https://github.com/ayoisaiah/focus/releases/download/v1.4.2/focus_1.4.2_windows_arm64.zip",
+            "url": "https://github.com/ayoisaiah/focus/releases/download/v1.4.3/focus_1.4.3_windows_arm64.zip",
             "bin": [
                 "focus.exe"
             ],
-            "hash": "5713871e733d8818eda8a66ad226b8b5f3896c1839b0b9d4f05501b2b8112bc6"
+            "hash": "6a5566d5b646313bf386725d4d5fdee14fc1a6b7fb08a3608eb6c6dd21f27801"
         }
     },
     "homepage": "https://github.com/ayoisaiah/focus/wiki",
