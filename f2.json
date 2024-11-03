@@ -1,22 +1,22 @@
 {
-    "version": "1.9.1",
+    "version": "2.0.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ayoisaiah/f2/releases/download/v1.9.1/f2_1.9.1_windows_386.tar.gz",
+            "url": "https://github.com/ayoisaiah/f2/releases/download/v2.0.0/f2_2.0.0_windows_386.zip",
             "bin": [
                 "f2.exe"
             ],
-            "hash": "92bc9b00d88356c26b947b9a75b87bdb751385665c606e70ce31c49459612fb1"
+            "hash": "856d31dd4edd719cf54502676a61e23ec9b8b324fe01497dc37487c2d5c3176b"
         },
         "64bit": {
-            "url": "https://github.com/ayoisaiah/f2/releases/download/v1.9.1/f2_1.9.1_windows_amd64.tar.gz",
+            "url": "https://github.com/ayoisaiah/f2/releases/download/v2.0.0/f2_2.0.0_windows_amd64.zip",
             "bin": [
                 "f2.exe"
             ],
-            "hash": "5c4a3d825c7fb4d371d3fb8e0b987868b07b279047c507ebef1c1cc6c59e9469"
+            "hash": "c88f19cd6d26ab2ac2aefed4325ecac8ddeb6b5eebe2d043b8140491bc38bc9c"
         }
     },
-    "homepage": "https://github.com/ayoisaiah/f2",
+    "homepage": "https://f2.freshman.tech",
     "license": "MIT",
     "description": "F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely"
 }
